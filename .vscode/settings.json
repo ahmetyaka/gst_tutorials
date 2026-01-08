@@ -1,5 +1,0 @@
-{
-    "mesonbuild.configureOnOpen": true,
-    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
-    "C_Cpp.default.compileCommands": "/home/ahmetyaka/Desktop/Projects/gst_tutorials/builddir/compile_commands.json"
-}

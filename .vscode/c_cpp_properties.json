@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Mac-GStreamer",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/include/gstreamer-1.0",
+                "/opt/homebrew/include/glib-2.0",
+                "/opt/homebrew/lib/glib-2.0/include",
+                "/opt/homebrew/include"
+            ],
+            "defines": [
+                "_REENTRANT" 
+            ],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/opt/homebrew/include/gstreamer-1.0",
+                    "/opt/homebrew/include/glib-2.0",
+                    "/opt/homebrew/lib/glib-2.0/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
