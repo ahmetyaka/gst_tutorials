@@ -1,3 +1,5 @@
+//MACOS VIDEO PLAYER
+
 #include <gst/gst.h>
 #include <glib.h>
 
