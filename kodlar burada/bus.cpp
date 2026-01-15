@@ -1,3 +1,5 @@
+//BUS TUTORIAL
+
 #include <gst/gst.h>
 
 static GMainLoop *loop;
